@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Halo, Saya Fatja!
 
-<!--
-**sheikafatja/sheikafatja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Saya seorang mahasiswa Ilmu Komputer yang sedang belajar dan mengeksplorasi dunia pemrograman serta teknologi. Saya tertarik pada pengembangan aplikasi, algoritma, dan open source.
 
-Here are some ideas to get you started:
+## 📚 Pendidikan
+- Mahasiswa Ilmu Komputer
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Keahlian & Minat
+- Pemrograman: Python, Java, C++
+- Pengembangan Web: HTML, CSS, JavaScript
+- Data Science & Machine Learning (pemula)
+- Belajar Git & GitHub untuk kolaborasi proyek
+
+## 🌱 Saat ini sedang belajar
+- Git & GitHub
+- Framework Web (contoh: Flask, React)
+- Kontribusi Open Source
+
+---
+
+Terima kasih sudah berkunjung ke profil saya! Jangan ragu untuk menghubungi saya jika ingin berdiskusi atau berkolaborasi.
